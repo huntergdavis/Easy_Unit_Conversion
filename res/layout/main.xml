@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:text="Select Conversion:" android:id="@+id/explanationtext"
+		android:layout_width="fill_parent" android:layout_below="@+id/buttonrow"
+		android:layout_height="wrap_content"></TextView>
+	<Spinner android:layout_width="fill_parent"
+		android:layout_below="@+id/explanationtext" android:layout_height="wrap_content"
+		android:id="@+id/conversions">
+	</Spinner>
+
+	<EditText android:layout_width="fill_parent" android:id="@+id/invalue"
+		android:text="1.0" android:numeric="decimal" android:layout_height="wrap_content"></EditText>
+
+	<TextView android:text="1.0 Meters is 3.28083 Feet"
+		android:id="@+id/conversiontext" android:layout_width="fill_parent"
+		 android:layout_height="wrap_content"></TextView>
+
+
+	<com.google.ads.AdView android:id="@+id/adView"
+		android:layout_alignParentBottom="true" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" ads:adUnitId="a14e172929306dd" ads:adSize="BANNER"
+		ads:loadAdOnCreate="false" />
+
+</LinearLayout>

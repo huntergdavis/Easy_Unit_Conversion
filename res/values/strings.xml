@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, EasyUnitConversion!</string>
+	<string name="app_name">Easy Unit Conversion</string>
+
+	<string-array name="conversions">
+		<item>meters to feet</item>
+		<item>meters to yards</item>
+		<item>meters to inches</item>
+		<item>meters to miles</item>
+		<item>feet to meters</item>
+		<item>feet to yards</item>
+		<item>feet to inches</item>
+		<item>feet to miles</item>
+		<item>yards to meters</item>
+		<item>yards to feet</item>
+		<item>yards to inches</item>
+		<item>yards to miles</item>
+		<item>inches to meters</item>
+		<item>inches to feet</item>
+		<item>inches to yards</item>
+		<item>inches to miles</item>
+		<item>miles to feet</item>
+		<item>miles to yards</item>
+		<item>miles to meters</item>
+		<item>miles to inches</item>
+		<item>celsius to kelvin</item>
+		<item>celsius to fahrenheit</item>
+		<item>fahrenheit to celsius</item>
+		<item>fahrenheit to kelvin</item>
+		<item>kelvin to celcius</item>
+		<item>kelvin to fahrenheit</item>
+		<item>liter to pint</item>
+		<item>liter to quart</item>
+		<item>liter to gallon</item>
+		<item>pint to liter</item>
+		<item>pint to quart</item>
+		<item>pint to gallon</item>
+		<item>quart to liter</item>
+		<item>quart to pint</item>
+		<item>quart to gallon</item>
+		<item>gallon to liter</item>
+		<item>gallon to pint</item>
+		<item>gallon to quart</item>
+		<item>kilograms to grams</item>
+		<item>kilograms to tons</item>
+		<item>kilograms to pounds</item>
+		<item>kilograms to ounces</item>
+		<item>grams to kilograms</item>
+		<item>grams to tons</item>
+		<item>grams to pounds</item>
+		<item>grams to ounces</item>
+		<item>tons to kilograms</item>
+		<item>tons to grams</item>
+		<item>tons to pounds</item>
+		<item>tons to ounces</item>
+		<item>pounds to kilograms</item>
+		<item>pounds to grams</item>
+		<item>pounds to tons</item>
+		<item>pounds to ounces</item>
+		<item>ounces to kilograms</item>
+		<item>ounces to grams</item>
+		<item>ounces to tons</item>
+		<item>ounces to pounds</item>
+	</string-array>
+</resources>
